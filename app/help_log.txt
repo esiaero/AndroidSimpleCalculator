@@ -1,0 +1,2 @@
+9-15-20: Stack Overflow to make different button shape, https://stackoverflow.com/questions/18507351/how-to-create-custom-button-in-android-using-xml-styles
+9-16-20: Stack Overflow to see how to make button press changes, https://stackoverflow.com/questions/41936272/how-to-highlight-pressed-items-in-a-listview
